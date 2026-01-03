@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ナウオアネバー",
+  "base_artist": "佐伯ユウスケ",
+  "createdAt": "2026-01-03T11:34:14.698402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナウオアネバー",
+      "artist": "佐伯ユウスケ",
+      "has_synced": true,
+      "path": "select/01_ナウオアネバー_佐伯ユウスケ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナウオアネバー",
+      "artist": "佐伯ユウスケ",
+      "has_synced": false,
+      "path": "select/pl_01_ナウオアネバー_佐伯ユウスケ.txt"
+    }
+  ]
+}
